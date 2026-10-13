@@ -37,4 +37,5 @@ $env:JAVA_HOME = "$PWD\toolchain\jdk\jdk-17.0.20.1+1"
 
 ## License
 
-MIT, see `LICENSE`.
+Copyright (C) 2026 Jose Cartro. Musly9 is free software: you can redistribute it and/or modify it under the
+terms of the GNU General Public License version 3 (GPL-3.0-only), see `LICENSE`.
